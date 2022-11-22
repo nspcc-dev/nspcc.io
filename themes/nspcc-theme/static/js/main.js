@@ -12757,10 +12757,6 @@ function getScrollBarWidth() {
 	return 100 - widthWithScroll;
 }
 ;
-var scrollBarWidth = getScrollBarWidth();
-if (scrollBarWidth > 0) {
-	$('<style>.persons:before,.persons:after,.contacts:before,.contacts:after{margin-left: -' + scrollBarWidth + 'px;}</style>').appendTo("head");
-}
 
 $(document).ready(function() {
 
@@ -12843,19 +12839,6 @@ $(document).ready(function() {
 			}
 	});
 
-	$('.request-form-vacancy').magnificPopup({
-			type: 'ajax',
-			closeOnBgClick: false,
-			closeOnContentClick: false,
-			mainClass: 'my-mfp-slide-bottom'
-	});
-
-	$('.view-popup-team').magnificPopup({
-			closeOnBgClick: true,
-			closeOnContentClick: false,
-			mainClass: 'my-mfp-slide-bottom'
-	});
-
 });
 
 if (!isMobile.any()) {
@@ -12868,17 +12851,3 @@ if (!isMobile.any()) {
 			}
 	});
 }
-
-/* End */
-;;/* /local/templates/nspcc/js/jquery.min.js?166601691897163*/
-;/* /local/templates/nspcc/js/popper.min.js?166601691820297*/
-;/* /local/templates/nspcc/js/bootstrap.min.js?166601691851039*/
-;/* /local/templates/nspcc/js/parallax.min.js?166601691817272*/
-;/* /local/templates/nspcc/js/skrollr.min.js?166601691810040*/
-;/* /local/templates/nspcc/js/jquery.maskedinput.min.js?16660169184324*/
-;/* /local/templates/nspcc/js/jquery.validate.min.js?166601691823238*/
-;/* /local/templates/nspcc/js/jquery.form.js?166601691815248*/
-;/* /local/templates/nspcc/js/jquery.magnific-popup.min.js?166601691843021*/
-;/* /local/templates/nspcc/js/neo.js?16660169184537*/
-
-//# sourceMappingURL=template_e92181212d2da5e0a7c758099c2c0aee.map.js

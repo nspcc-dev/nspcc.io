@@ -19463,7 +19463,7 @@ header.topfixed .topmenu UL {
 }
 
 .persons .item .photo {
-	width: 244px;
+	width: 245px;
 	height: 211px;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -19472,12 +19472,12 @@ header.topfixed .topmenu UL {
 }
 
 .persons .item .photo .frame {
-	width: 244px;
+	width: 245px;
 	height: 212px;
 	background-size: contain;
 	/*background-repeat: no-repeat;*/
 	background-position: center;
-	background-image: url(/images/team/persons_mask.png);
+	background-image: url(/images/team/mask.png);
 }
 
 .persons .item .fio {
@@ -19544,7 +19544,7 @@ header.topfixed .topmenu UL {
 
 .timer .liner {
 	font-family: LatoBold;
-	background-image: url(/image/elements/line.png);
+	background-image: url(/images/elements/line.png);
 	background-repeat: repeat-y;
 	background-position: center;
 	margin: 80px 0px 0px 0px;
