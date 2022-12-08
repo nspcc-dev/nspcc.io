@@ -5,27 +5,14 @@
         href="mailto:info@nspcc.ru">info@nspcc.ru</a></div>
 
     <div class="row skrollable skrollable-after" data-bottom="opacity:0;" data--100-bottom="opacity:1;"
-      style="opacity: 1;">
-      <div class="col-sm-4 col-lg-2 offset-lg-2" id="bx_1373509569_12">
-        <a href="https://medium.com/@neospcc" class="social-link">
-          <div class="icon-social medium"></div>@neospcc
+      style="opacity: 1; justify-content: center;">
+      {{ range .Site.Params.social }}
+      <div class="col-sm-4 col-lg-2">
+        <a href="{{ .link | safeURL }}" class="social-link">
+          <div class="icon-social {{ .icon }}"></div>{{ .name }}
         </a>
       </div>
-      <div class="col-sm-4 col-lg-2 " id="bx_1373509569_11">
-        <a href="https://twitter.com/neospcc" class="social-link">
-          <div class="icon-social twitter"></div>@neospcc
-        </a>
-      </div>
-      <div class="col-sm-4 col-lg-2 " id="bx_1373509569_71">
-        <a href="https://github.com/nspcc-dev/demo" class="social-link">
-          <div class="icon-social github"></div>GitHub
-        </a>
-      </div>
-      <div class="col-sm-4 col-lg-2 " id="bx_1373509569_69">
-        <a href="https://www.youtube.com/channel/UCAC6lR1bJFv0-O07Nol_p8w" class="social-link">
-          <div class="icon-social youtube"></div>YouTube
-        </a>
-      </div>
+      {{ end }}
     </div>
     <div class="infos1 text-center">Следите за нашими последними новостями и обновлениями</div>
   </div>
@@ -42,5 +29,5 @@
   </div>
 </div>
 <div class="container copy-footer text-center p-5">
-  © 2022 Neo SPCC. Все права защищены.
+  © 2023 Neo SPCC. Все права защищены.
 </div>

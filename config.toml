@@ -1,4 +1,26 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Санкт-Петербургский Центр Компетенций Neo'
 theme = "nspcc-theme"
+
+
+############################## social links ##############################
+[[params.social]]
+icon = "medium"
+name = "@neospcc"
+link = "https://medium.com/@neospcc"
+
+[[params.social]]
+icon = "twitter"
+name = "@neospcc"
+link = "https://twitter.com/neospcc"
+
+[[params.social]]
+icon = "github"
+name = "GitHub"
+link = "https://github.com/nspcc-dev/demo"
+
+[[params.social]]
+icon = "youtube"
+name = "YouTube"
+link = "https://www.youtube.com/channel/UCAC6lR1bJFv0-O07Nol_p8w"
