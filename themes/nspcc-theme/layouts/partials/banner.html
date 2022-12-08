@@ -1,0 +1,27 @@
+{{ if .IsHome }}
+<div id="topAbout" class="introText">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        <h1>{{ .Title }}</h1>
+        {{ if .Description }}
+          <div class="info">{{ .Description | markdownify }}</div>
+        {{ end }}
+        <div class="line"></div>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="scene"
+  style="transform: translate3d(0px, 0px, 0px) rotate(0.0001deg); transform-style: preserve-3d; backface-visibility: hidden; pointer-events: none;">
+  <div class="intro" data-depth="0.30"
+    style="transform: translate3d(0px, 0px, 0px); transform-style: preserve-3d; backface-visibility: hidden; position: relative; display: block; left: 0px; top: 0px;">
+  </div>
+</div>
+{{ else }}
+<div class="staticPageIntro" style="background-image: url(/images/top/jobs.jpg)">
+  <div class="container">
+    <h1>{{ .Title }}</h1>
+  </div>
+</div>
+{{ end }}
