@@ -1,7 +1,7 @@
 <div id="contacts" class="contacts">
   <div class="container">
-    <h2 class="text-center">Контакты</h2>
-    <div class="infos text-center">Если у вас есть вопросы, вы можете написать нам: <a
+    <h2 class="text-center">{{ i18n "contacts_title" }}</h2>
+    <div class="infos text-center">{{ i18n "contacts_text" }} <a
         href="mailto:info@nspcc.ru">info@nspcc.ru</a></div>
 
     <div class="row skrollable skrollable-after" data-bottom="opacity:0;" data--100-bottom="opacity:1;"
@@ -14,7 +14,7 @@
       </div>
       {{ end }}
     </div>
-    <div class="infos1 text-center">Следите за нашими последними новостями и обновлениями</div>
+    <div class="infos1 text-center">{{ i18n "contacts_caption" }}</div>
   </div>
 </div>
 <div class="partners">
@@ -29,5 +29,5 @@
   </div>
 </div>
 <div class="container copy-footer text-center p-5">
-  © 2023 Neo SPCC. Все права защищены.
+  {{ i18n "footer" }}
 </div>

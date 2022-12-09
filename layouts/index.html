@@ -1,13 +1,13 @@
 {{ define "main" }}
 <div id="about" class="services">
   <div class="container">
-    <h2 class="text-center">Направления нашей деятельности</h2>
+    <h2 class="text-center">{{ i18n "services_title" }}</h2>
     <div class="row">
       <div class="col-12 text-center icon-abs skrollable skrollable-before" data-bottom="opacity:0;margin-left:-100px;"
         data-center-top="opacity:1;margin-left:0px;" style="opacity: 1; margin-left: 0px;">
         <div class="icon icon1 center"></div>
         <div class="rightBorderHeading">
-          <h3>Экосистемные проекты NEO</h3>
+          <h3>{{ i18n "services_logo1" }}</h3>
         </div>
       </div>
     </div>
@@ -19,46 +19,43 @@
         data-bottom="margin-top:-70px; opacity:0; margin-left:-100px;"
         data-center-top="margin-top:-70px;opacity:1;margin-left:0px;padding-top:0px;">
         <div class="rightBorderHeading">
-          <h3>NeoFS</h3>
+          <h3>{{ i18n "services_logo2" }}</h3>
         </div>
       </div>
     </div>
     <div class="row">
       <div class="col-12 text-center icon-abs skrollable skrollable-before" data-bottom="opacity:0;margin-left:-100px;"
         data-center-top="opacity:1;margin-left:0px;" style="opacity: 1; margin-left: 0px;">
-        Мы разрабатываем распределенное, децентрализованное <a href="https://fs.neo.org">объектное хранилище
-          NeoFS</a>,&nbsp;интегрируемое с Neo Blockchain и реализующее шифрование на стороне клиента, которое позволяет
-        пользователям передавать данные и предоставлять доступ к ним без обращения к третьему лицу-провайдеру
-        хранилища<br>
+        {{ i18n "services_text1" | markdownify }}
+        <br>
         <br>
         <br>
         <p></p>
-        <h4>Основные характеристики:</h4>
+        <h4>{{ i18n "services_text2" }}</h4>
       </div>
     </div>
     <div class="row">
       <div class="col-md-4 text-center skrollable skrollable-before" data-bottom="opacity:0;"
         data-center-top="opacity:1;" style="opacity: 1;">
         <div class="icon icon2 center"></div>
-        <div class="title"><b>Peer-to-peer реализация хранилища</b></div>
+        <div class="title"><b>{{ i18n "services_text3" }}</b></div>
       </div>
       <div class="col-md-4 text-center skrollable skrollable-before" data-bottom="opacity:0;"
         data-center-top="opacity:1;" style="opacity: 1;">
         <div class="icon icon3 center"></div>
-        <div class="title"><b>Отказоустойчивость</b></div>
+        <div class="title"><b>{{ i18n "services_text4" }}</b></div>
       </div>
       <div class="col-md-4 text-center skrollable skrollable-before" data-bottom="opacity:0;"
         data-center-top="opacity:1;" style="opacity: 1;">
         <div class="icon icon4 center"></div>
-        <div class="title"><b>Децентрализация</b></div>
+        <div class="title"><b>{{ i18n "services_text5" }}</b></div>
       </div>
     </div>
     <div class="row advantage4">
       <div class="col-lg-8 offset-lg-2 text-center skrollable skrollable-before" data-bottom="opacity:0;"
         data-center-top="opacity:1;" style="opacity: 1;">
         <div class="icon icon5 center"></div>
-        <div class="title"><b>Встроенная система экономического стимулирования, которая может быть использована в
-            различных бизнес-кейсах для открытых и частных распределенных, децентрализованных объектных хранилищ</b>
+        <div class="title"><b>{{ i18n "services_text6" }}</b>
         </div>
       </div>
     </div>
@@ -69,13 +66,12 @@
           data-bottom="opacity:0;margin-left:-100px;margin-top:-70px;"
           data-center-top="opacity:1;margin-left:0px;margin-top:-70px;">
           <div class="rightBorderHeading">
-            <h3>Neo Lambda</h3>
+            <h3>{{ i18n "services_logo3" }}</h3>
           </div>
         </div>
         <div class="col-lg-8 offset-lg-2 text-center skrollable skrollable-before" data-bottom="opacity:0;"
           data-center-top="opacity:1;" style="opacity: 1;">
-          <div class="title">Мы разрабатываем децентрализованную&nbsp;платформу&nbsp;для распределенных
-            вычислений&nbsp;интегрируемую с Neo Blockchain<br></div>
+          <div class="title">{{ i18n "services_text7" }}<br></div>
         </div>
       </div>
     </div>
@@ -86,14 +82,16 @@
           data-bottom="opacity:0;margin-left:-100px;margin-top:-70px;"
           data-center-top="opacity:1;margin-left:0px;margin-top:-70px;">
           <div class="rightBorderHeading">
-            <h3>NeoGO</h3>
+            <h3>{{ i18n "services_logo4" }}</h3>
           </div>
         </div>
         <div class="col-lg-8 offset-lg-2 text-center skrollable skrollable-before" data-bottom="opacity:0;"
           data-center-top="opacity:1;" style="opacity: 1;">
-          <div class="title">Мы разрабатываем и поддерживаем <a href="https://github.com/nspcc-dev/neo-go">реализацию
-              Neo Node</a> на языке Golang<br>
-            <br></div>
+          <div class="title">
+            {{ i18n "services_text8" | markdownify }}
+            <br>
+            <br>
+          </div>
         </div>
       </div>
     </div>
@@ -102,14 +100,14 @@
         data-center-top="opacity:1;margin-left:0px;" style="opacity: 1; margin-left: 0px;">
         <div class="icon icon6 center"></div>
         <div class="rightBorderHeading">
-          <h3>Проекты развития сообщества NEO в мире</h3>
+          <h3>{{ i18n "services_logo5" }}</h3>
         </div>
         <div class="row text-left">
           <div class="col-lg-6 offset-lg-3">
             <ul>
-              <li>Митапы и конференции, посвященные технологиям Neo</li>
-              <li>Хакатоны</li>
-              <li>Совместные исследовательские проекты с университетами и компаниями</li>
+              <li>{{ i18n "services_text9a" }}</li>
+              <li>{{ i18n "services_text9b" }}</li>
+              <li>{{ i18n "services_text9c" }}</li>
             </ul>
           </div>
         </div>
