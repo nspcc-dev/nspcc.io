@@ -5,7 +5,7 @@ date: 2022-12-06T16:32:57+03:00
 draft: false
 ---
 
-{{< persons >}}
+{{< persons "Команда" >}}
   {{< person "1" "/images/team/stanislav_bogatyrev.jpg" "Станислав Богатырев" "Технический Директор" >}}
   {{< person "2" "/images/team/sergey_lyubich.jpg" "Сергей Любич" "Генеральный Директор" >}}
   {{< person "3" "/images/team/fabian_waale.jpg" "Фабиан Ваале" "Советник по Стратегии" >}}
@@ -24,7 +24,7 @@ draft: false
   {{< person "16" "/images/team/mikhail_petrov.jpg" "Михаил Петров" "Frontend Разработчик" >}}
 {{< /persons >}}
 
-{{< roadmap >}}
+{{< roadmap "Дорожная карта" >}}
   {{< roadmap_item "left" "Q3 2022" "Технологические улучшения" >}}
     <ul>
       <li>

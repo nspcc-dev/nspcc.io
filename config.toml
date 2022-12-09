@@ -2,8 +2,16 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Санкт-Петербургский Центр Компетенций Neo'
 theme = "nspcc-theme"
+DefaultContentLanguage = "ru"
 
-
+[languages]
+  [languages.en]
+    languageName = "English"
+    weight = 1
+  [languages.ru]
+    languageName = "Russian"
+    weight = 2
+  
 ############################## social links ##############################
 [[params.social]]
 icon = "medium"
