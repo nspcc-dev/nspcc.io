@@ -4,7 +4,7 @@ date: 2022-12-06T16:32:57+03:00
 draft: false
 ---
 
-## CONFERENCE TALKS AND PAPERS1
+## CONFERENCE TALKS AND PAPERS
 
 [**NeoFS: Storing Object Data According to Your Rules**](https://smartdataconf.ru/en/2020/spb/talks/6eh0kwhsf7mevgsqmgsvvc/)  
 Stanislav Bogatyrev  

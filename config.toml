@@ -2,8 +2,9 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Санкт-Петербургский Центр Компетенций Neo'
 theme = "nspcc-theme"
-DefaultContentLanguage = "ru"
 
+# languages
+DefaultContentLanguage = "ru"
 [languages]
   [languages.en]
     languageName = "English"
@@ -11,8 +12,8 @@ DefaultContentLanguage = "ru"
   [languages.ru]
     languageName = "Russian"
     weight = 2
-  
-############################## social links ##############################
+
+# social links
 [[params.social]]
 icon = "medium"
 name = "@neospcc"
@@ -26,9 +27,9 @@ link = "https://twitter.com/neospcc"
 [[params.social]]
 icon = "github"
 name = "GitHub"
-link = "https://github.com/nspcc-dev/demo"
+link = "https://github.com/nspcc-dev"
 
 [[params.social]]
 icon = "youtube"
 name = "YouTube"
-link = "https://www.youtube.com/channel/UCAC6lR1bJFv0-O07Nol_p8w"
+link = "https://www.youtube.com/@neospcc5818"
