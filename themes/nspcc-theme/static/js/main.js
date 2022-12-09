@@ -12839,6 +12839,11 @@ $(document).ready(function() {
 			}
 	});
 
+	$('.view-popup-team').magnificPopup({
+		closeOnBgClick: true,
+		closeOnContentClick: false,
+		mainClass: 'my-mfp-slide-bottom'
+	});
 });
 
 if (!isMobile.any()) {

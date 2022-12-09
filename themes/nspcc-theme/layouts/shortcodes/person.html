@@ -8,3 +8,20 @@
   <div class="fio">{{ .Get 2 }}</div>
   <div class="job">{{ .Get 3 }}</div>
 </div>
+<div style="display: none;">
+  <div class="popup-dialog person-popup" id="person{{ .Get 0 }}">
+    <div class="row">
+      <div class="col-lg-4 d-none d-lg-block">
+        <img src="{{ .Get 1 }}" class="img-fluid" alt="">
+      </div>
+      <div class="col-lg-8">
+        <div class="name">{{ .Get 2 }}</div>
+        <div class="job">{{ .Get 3 }}</div>
+        <hr>
+        <div class="bio">
+          {{ .Inner }}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

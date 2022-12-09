@@ -7,21 +7,122 @@ draft: false
 
 {{< persons "Team" >}}
   {{< person "1" "/images/team/stanislav_bogatyrev.jpg" "Stanislav Bogatyrev" "Chief Technical Officer" >}}
+    <ul>
+      <li>PhD Candidate in Reliability of Distributed Computer Systems (ITMO University)</li>
+      <li>Diploma of Engineer in Embedded Systems (ITMO University)</li>
+      <li>Master of Innovation Management (St. Petersburg State University of Service and Economics)</li>
+      <li>Former senior software engineer at Samsung Electronics, system architect at Clodo Cloud Hosting, senior
+        software engineer at Dell-EMC, engineer at Mashtab Research Institute </li>
+    </ul>
+  {{< /person >}}
   {{< person "2" "/images/team/sergey_lyubich.jpg" "Sergei Liubich" "Chief Executive Officer" >}}
+    <ul>
+      <li>PhD Candidate in Reliability of Distributed Computer Systems (ITMO University)</li>
+      <li>M.Sc. in Computer &amp; Electrical Engineering (Seoul National University)</li>
+      <li>M.Sc. in Applied Mathematics &amp; Informatics (St. Petersburg State University)</li>
+      <li>Former research engineer at Samsung Electronics (Seoul R&amp;D Center)</li>
+    </ul>
+  {{< /person >}}
   {{< person "3" "/images/team/fabian_waale.jpg" "Fabian Wahle" "Strategic Advisor" >}}
+    <ul>
+      <li>PhD in Information Systems (ETH Zurich)</li>
+      <li>M.Sc. in Artificial Intelligence (Maastricht University)</li>
+      <li>
+        Co-founder at <a href="https://neonexchange.org" target="_blank">Nash</a></li>
+      <li>
+        Co-founder at <a href="https://cityofzion.io" target="_blank">City of Zion</a></li>
+      <li>
+        Founder and lead software developer at <a href="https://altoida.com" target="_blank">Altoida</a></li>
+    </ul>
+  {{< /person >}}
   {{< person "4" "/images/team/alexey_vanin.jpg" "Alexey Vanin" "Principal Software Engineer" >}}
+    <ul>
+      <li>PhD Candidate in Computation Networks (ITMO University)</li>
+      <li>M.Sc. in Computational Networks (ITMO University)</li>
+      <li>Former software engineer at Mashtab Research Institute</li>
+    </ul>
+  {{< /person >}}
   {{< person "5" "/images/team/roman_himov.jpg" "Roman Khimov" "Principal Software Engineer" >}}
+    <ul>
+      <li>Diploma of Engineer in Embedded Systems (ITMO University)</li>
+      <li>Former principal software engineer at Kraftway Corporation and head of network equipment department at
+        ALTELL</li>
+    </ul>
+  {{< /person >}}
   {{< person "6" "/images/team/anatoly_bogatyrev.jpg" "Anatoly Bogatyrev" "Chief Information Officer" >}}
+    <ul>
+      <li>PhD in Reliability of Cluster Computer Systems (ITMO University)</li>
+      <li>M.Sc. in Computational Networks (ITMO University)</li>
+      <li>Former senior software engineer in data storage infrastructure at Dell-EMC</li>
+    </ul>
+  {{< /person >}}
   {{< person "7" "/images/team/anastasiya_prasolova.jpeg" "Anastasia Prasolova" "Software Engineer" >}}
+    <ul>
+      <li>B.Sc. in Software Engineering (ITMO University)</li>
+      <li>Former software engineer at Dell-EMC, configuration manager at T-Systems, and also system administrator
+        at Yandex</li>
+    </ul>
+  {{< /person >}}
   {{< person "8" "/images/team/leonard_lubitsch.jpg" "Leonard Liubich" "Software Engineer" >}}
+    <ul>
+      <li>B.Sc. in Applied Mathematics &amp; Informatics (St. Petersburg State University)</li>
+      <li>
+        Former software engineer at R&amp;D Center "Metrotek"</li>
+    </ul>
+  {{< /person >}}
   {{< person "9" "/images/team/evgeny_stratonikov.jpg" "Evgeny Stratonikov" "Principal Software Engineer" >}}
+    <ul>
+      <li>Bachelor in Software and Information Systems Administration (St. Petersburg State University)</li>
+      <li>Former software engineer in data storage infrastructure at Casper API and RAIDIX, also worked at
+        JetBrains</li>
+    </ul>
+  {{< /person >}}
   {{< person "10" "/images/team/anna_shaleva.jpg" "Anna Shaleva" "Software Engineer" >}}
+    <ul>
+      <li>M.Sc. in Applied Mathematics &amp; Informatics (St. Petersburg State University)</li>
+      <li>Former software engineer at EPAM Systems Inc. and Distributed Ledger Technologies Center of St.
+        Petersburg State University</li>
+    </ul>
+  {{< /person >}}
   {{< person "11" "/images/team/unset.jpg" "Sergio Nemirowski" "System Administrator" >}}
+    <ul>
+      <li>Phys-tech, Peter the Great St. Petersburg Polytechnic University</li>
+      <li>Former system administrator at Dr. Web and OKTET Labs</li>
+    </ul>
+  {{< /person >}}
   {{< person "12" "/images/team/pavel_karpiy.jpeg" "Pavel Karpy" "Software Engineer" >}}
+    <ul>
+      <li>B.Sc. in Applied Mathematics &amp; Informatics (St. Petersburg State University)</li>
+      <li>Former software engineer at T-Systems, Distributed Ledger Technologies Center of St. Petersburg State
+        University and Devim</li>
+    </ul>
+  {{< /person >}}
   {{< person "13" "/images/team/elizaveta_chichindaeva.jpg" "Elizaveta Chichindaeva" "QA Engineer" >}}
+    <ul>
+      <li> B.Sc. in English Linguistics &amp; Philology (St. Petersburg State University) </li>
+      <li> Former technical translator at companies RUSAL and Neo SPCC</li>
+    </ul>
+  {{< /person >}}
   {{< person "14" "/images/team/angira_kekteeva.jpg" "Angira Kekteeva" "Software Engineer" >}}
+    <ul>
+      <li>B.Sc. in Fundametnal Informatics and Information Technologies (St. Petersburg State University)</li>
+      <li>Former software engineer at The_Covert and Krylov State Research Center</li>
+    </ul>
+  {{< /person >}}
   {{< person "15" "/images/team/denis_kirillov.jpeg" "Denis Kirillov" "Software Engineer" >}}
+    <ul>
+      <li>M.Sc. in Computing Technologies (St. Petersburg State University)</li>
+      <li>Former software engineer at Digital Design and Distributed Ledger Technologies Center of St. Petersburg
+        State University</li>
+    </ul>
+  {{< /person >}}
   {{< person "16" "/images/team/mikhail_petrov.jpg" "Mikhail Petrov" "Frontend Developer" >}}
+    <ul>
+      <li>B.Sc. in Fundamental Informatics and Information Technologies (St. Petersburg State University)</li>
+      <li>Former frontend developer at Distributed Ledger Technologies Center of St. Petersburg State University
+        and startup company Tensy</li>
+    </ul>
+  {{< /person >}}
 {{< /persons >}}
 
 {{< roadmap "Roadmap" >}}
