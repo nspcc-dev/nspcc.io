@@ -4,7 +4,7 @@ title = 'Санкт-Петербургский Центр Компетенций
 theme = "nspcc-theme"
 
 # languages
-DefaultContentLanguage = "ru"
+DefaultContentLanguage = "en"
 [languages]
   [languages.en]
     languageName = "English"
