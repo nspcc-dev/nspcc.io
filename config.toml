@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://nspcc.io/'
 languageCode = 'en-us'
 title = 'Санкт-Петербургский Центр Компетенций Neo'
 theme = "nspcc-theme"
