@@ -1,20 +1,11 @@
 ---
-title: Neo Saint Petersburg Competence Center
-description: Neo SPCC –  R&D team developing an open-source truly decentralized cloud platform and supporting the [Neo](https://neo.org/) core
+title: Neo SPCC
+description: R&D team developing an open-source truly decentralized cloud platform and supporting the [Neo](https://neo.org/) core
 date: 2022-12-06T16:32:57+03:00
 draft: false
 ---
 
 {{< persons "Team" >}}
-  {{< person "1" "/images/team/stanislav_bogatyrev.jpg" "Stanislav Bogatyrev" "Chief Technical Officer" >}}
-    <ul>
-      <li>PhD Candidate in Reliability of Distributed Computer Systems (ITMO University)</li>
-      <li>Diploma of Engineer in Embedded Systems (ITMO University)</li>
-      <li>Master of Innovation Management (St. Petersburg State University of Service and Economics)</li>
-      <li>Former senior software engineer at Samsung Electronics, system architect at Clodo Cloud Hosting, senior
-        software engineer at Dell-EMC, engineer at Mashtab Research Institute </li>
-    </ul>
-  {{< /person >}}
   {{< person "2" "/images/team/sergey_lyubich.jpg" "Sergei Liubich" "Chief Executive Officer" >}}
     <ul>
       <li>PhD Candidate in Reliability of Distributed Computer Systems (ITMO University)</li>
@@ -42,18 +33,11 @@ draft: false
       <li>Former software engineer at Mashtab Research Institute</li>
     </ul>
   {{< /person >}}
-  {{< person "5" "/images/team/roman_himov.jpg" "Roman Khimov" "Principal Software Engineer" >}}
+  {{< person "5" "/images/team/roman_himov.jpg" "Roman Khimov" "Team Lead" >}}
     <ul>
       <li>Diploma of Engineer in Embedded Systems (ITMO University)</li>
       <li>Former principal software engineer at Kraftway Corporation and head of network equipment department at
         ALTELL</li>
-    </ul>
-  {{< /person >}}
-  {{< person "6" "/images/team/anatoly_bogatyrev.jpg" "Anatoly Bogatyrev" "Chief Information Officer" >}}
-    <ul>
-      <li>PhD in Reliability of Cluster Computer Systems (ITMO University)</li>
-      <li>M.Sc. in Computational Networks (ITMO University)</li>
-      <li>Former senior software engineer in data storage infrastructure at Dell-EMC</li>
     </ul>
   {{< /person >}}
   {{< person "7" "/images/team/anastasiya_prasolova.jpeg" "Anastasia Prasolova" "Software Engineer" >}}
@@ -84,10 +68,10 @@ draft: false
         Petersburg State University</li>
     </ul>
   {{< /person >}}
-  {{< person "11" "/images/team/unset.jpg" "Sergio Nemirowski" "System Administrator" >}}
+  {{< person "11" "/images/team/sergio_nemirowski.jpg" "Sergio Nemirowski" "System Administrator" >}}
     <ul>
       <li>Phys-tech, Peter the Great St. Petersburg Polytechnic University</li>
-      <li>Former system administrator at Dr. Web and OKTET Labs</li>
+      <li>Former system administrator at OKTET Labs</li>
     </ul>
   {{< /person >}}
   {{< person "12" "/images/team/pavel_karpiy.jpeg" "Pavel Karpy" "Software Engineer" >}}
@@ -123,6 +107,12 @@ draft: false
         and startup company Tensy</li>
     </ul>
   {{< /person >}}
+  {{< person "17" "/images/team/maksim_gelbahiani.jpg" "Maksim Gelbahiani" "DevOps Engineer" >}}
+    <ul>
+      <li>Applied Mathematics & Informatics (St. Petersburg State University)</li>
+      <li>Former principal QA engineer at Yadro and Dell EMC</li>
+    </ul>
+  {{< /person >}}
 {{< /persons >}}
 
 {{< roadmap "Roadmap" >}}
@@ -132,25 +122,28 @@ draft: false
         Local data storage:
         <ul>
           <li>Configuration refactoring</li>
-          <li>Versioning and optimizing storage schema</li>
+          <li>Storage scheme optimization and refactoring</li>
         </ul>
       </li>
-      <li>Improving the Tree-service component to work with s3:
+      <li>
+        Tree-service component improvement to work with S3:
         <ul>
           <li>Synchronization of trees between nodes</li>
           <li>Replication optimization</li>
           <li>Sharding</li>
         </ul>
       </li>
-      <li>Additional storage node metrics <br>(writecache and Tree-service)</li>
-      <li>S3 Gateways:
+      <li>Additional storage node metrics <br>(write cache and Tree-service)</li>
+      <li>
+        S3 Gateways:
         <ul>
-          <li>Rework the authentication/authorization mechanism</li>
-          <li>IAM compatible access control schemes</li>
+          <li>Authentication/authorization mechanism rework</li>
+          <li>IAM-compatible access control schemes</li>
           <li>REST Gateway</li>
         </ul>
       </li>
-      <li>CDN:
+      <li>
+        CDN:
         <ul>
           <li>Accounting</li>
           <li>Domain binding</li>
@@ -158,7 +151,8 @@ draft: false
         </ul>
       </li>
       <li>Advanced monitoring of all services</li>
-      <li>NeoGo:
+      <li>
+        NeoGo:
         <ul>
           <li>RPC client refactoring</li>
           <li>Wrappers for calling contracts via RPC</li>
@@ -167,7 +161,7 @@ draft: false
           <li>Implementation and support of Neo protocol changes</li>
         </ul>
       </li>
-      <li>Deployment in the Neo T5 Testnet network</li>
+      <li>Launch in Neo T5 Testnet network</li>
     </ul>
   {{< /roadmap_item >}}
   {{< roadmap_item "right" "Q2 2022" "NeoFS for the Real Economy" >}}
@@ -188,7 +182,7 @@ draft: false
         Background logical integrity check
       </li>
       <li>
-        Dynamic Inner ring extension
+        Dynamic inner ring extension
       </li>
       <li>
         Lightweight NeoGo nodes
@@ -204,7 +198,7 @@ draft: false
         Support for object versioning
       </li>
       <li>
-        NeoFS CDN launching
+        NeoFS CDN launch
       </li>
       <li>
         Neofs-sdk-go v1.0.0 release with integration examples
@@ -281,14 +275,14 @@ draft: false
         TLS support in storage nodes
       </li>
       <li>
-        NeoGo RC-compatible releases
+        NeoGo N3-RC-compatible releases
       </li>
     </ul>
   {{< /roadmap_item >}}
   {{< roadmap_item "left" "Q1 2021" "NeoFS in the Neo 3.0 Testnet" >}}
     <ul>
       <li>
-        NeoFS deployment in the Neo 3.0 Testnet
+        NeoFS launch in Neo 3.0 Testnet
       </li>
     </ul>
   {{< /roadmap_item >}}
@@ -302,20 +296,20 @@ draft: false
   {{< roadmap_item "left" "Q3 2020" "NeoFS 1.0 release" >}}
     <ul>
       <li>NeoFS v1.0 release and public access to the storage network</li>
-      <li>NeoFS CDN and HTTP-gate</li>
+      <li>NeoFS CDN and HTTP gateway</li>
     </ul>
   {{< /roadmap_item >}}
   {{< roadmap_item "right" "Q2 2020" "NEO 3.0" >}}
     <ul>
-      <li>Integration of NeoFS and Neo Blockchain Smart Contract</li>
-      <li>NeoFS Contract Development for Neo Blockchain</li>
+      <li>Integration of NeoFS and Neo Blockchain smart contract</li>
+      <li>NeoFS contract development</li>
     </ul>
   {{< /roadmap_item >}}
   {{< roadmap_item "left" "Q1 2020" "Core components development completion" >}}
     <ul>
       <li>Reputation system design and implementation</li>
-      <li>Implementation of adding and excluding Inner Ring nodes</li>
-      <li>Implementation of excluding storage nodes from Network Map</li>
+      <li>Implementation of adding and excluding the inner ring nodes</li>
+      <li>Implementation of excluding storage nodes from the network map</li>
       <li>Implementation of support for new network protocols</li>
     </ul>
   {{< /roadmap_item >}}
@@ -335,8 +329,8 @@ draft: false
   {{< /roadmap_item >}}
   {{< roadmap_item "right" "Q2 2019" "Feature development" >}}
     <ul>
-      <li>Implementation of data replication</li>
-      <li>Project presentation</li>
+      <li>Data replication implementation</li>
+      <li>Project presentation to Neo community</li>
       <li>Implementation of smart contract and payment methods for data storage</li>
       <li>API design</li>
     </ul>
