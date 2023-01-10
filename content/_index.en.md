@@ -33,11 +33,11 @@ draft: false
       <li>Former software engineer at Mashtab Research Institute</li>
     </ul>
   {{< /person >}}
-  {{< person "5" "/images/team/roman_himov.jpg" "Roman Khimov" "Team Lead" >}}
+  {{< person "5" "/images/team/roman_himov.jpg" "Roman Khimov" "Chief Technical Officer" >}}
     <ul>
       <li>Diploma of Engineer in Embedded Systems (ITMO University)</li>
-      <li>Former principal software engineer at Kraftway Corporation and head of network equipment department at
-        ALTELL</li>
+      <li>Former team lead at Kraftway Corporation and head of network equipment department at
+        Altell</li>
     </ul>
   {{< /person >}}
   {{< person "7" "/images/team/anastasiya_prasolova.jpeg" "Anastasia Prasolova" "Software Engineer" >}}
