@@ -156,7 +156,6 @@ draft: false
         <ul>
           <li>RPC client refactoring</li>
           <li>Wrappers for calling contracts via RPC</li>
-          <li>Loading contract states into alternative chains</li>
           <li>dBFT improvements</li>
           <li>Implementation and support of Neo protocol changes</li>
         </ul>
