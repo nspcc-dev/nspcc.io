@@ -116,6 +116,16 @@ draft: false
 {{< /persons >}}
 
 {{< roadmap "Roadmap" >}}
+щ  {{< roadmap_item "left" "Q1 2023" "Structural simplification" >}}
+    <ul>
+      <li>Inner ring and blockchain node unification</li>
+      <li>System update procedure simplification</li>
+      <li>Drop support for legacy NeoFS deployment modes</li>
+      <li>Remove known contract-related limitations</li>
+      <li>Extended error codes for NeoGo RPC protocol</li>
+      <li>dBFT TLA+ model</li>
+    </ul>
+  {{< /roadmap_item >}}
   {{< roadmap_item "right" "Q4 2022" "Fixes and optimization" >}}
     <ul>
       <li>Support for storage node maintenance mode</li>
