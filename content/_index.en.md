@@ -116,6 +116,23 @@ draft: false
 {{< /persons >}}
 
 {{< roadmap "Roadmap" >}}
+  {{< roadmap_item "right" "Q4 2022" "Fixes and optimization" >}}
+    <ul>
+      <li>Support for storage node maintenance mode</li>
+      <li>Extended test suite, fixes for tens of problems found</li>
+      <li>Tree-service optimization</li>
+      <li>Additional metrics for storage and IR nodes</li>
+      <li>
+        NeoGo:
+        <ul>
+          <li>Configuration refactoring</li>
+          <li>Support for structures in the smart contract RPC bindings generator</li>
+          <li>Neo 3.5.0 compatibility</li>
+        </ul>
+      </li>
+      <li>Public Neo networks update</li>
+    </ul>
+  {{< /roadmap_item >}}
   {{< roadmap_item "left" "Q3 2022" "Technological improvements" >}}
     <ul>
       <li>
