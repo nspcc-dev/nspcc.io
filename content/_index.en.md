@@ -26,13 +26,6 @@ draft: false
         Founder and lead software developer at <a href="https://altoida.com" target="_blank">Altoida</a></li>
     </ul>
   {{< /person >}}
-  {{< person "4" "/images/team/alexey_vanin.jpg" "Alexey Vanin" "Principal Software Engineer" >}}
-    <ul>
-      <li>PhD Candidate in Computation Networks (ITMO University)</li>
-      <li>M.Sc. in Computational Networks (ITMO University)</li>
-      <li>Former software engineer at Mashtab Research Institute</li>
-    </ul>
-  {{< /person >}}
   {{< person "5" "/images/team/roman_himov.jpg" "Roman Khimov" "Chief Technical Officer" >}}
     <ul>
       <li>Diploma of Engineer in Embedded Systems (ITMO University)</li>
@@ -54,13 +47,6 @@ draft: false
         Former software engineer at R&amp;D Center "Metrotek"</li>
     </ul>
   {{< /person >}}
-  {{< person "9" "/images/team/evgeny_stratonikov.jpg" "Evgeny Stratonikov" "Principal Software Engineer" >}}
-    <ul>
-      <li>Bachelor in Software and Information Systems Administration (St. Petersburg State University)</li>
-      <li>Former software engineer in data storage infrastructure at Casper API and RAIDIX, also worked at
-        JetBrains</li>
-    </ul>
-  {{< /person >}}
   {{< person "10" "/images/team/anna_shaleva.jpg" "Anna Shaleva" "Software Engineer" >}}
     <ul>
       <li>M.Sc. in Applied Mathematics &amp; Informatics (St. Petersburg State University)</li>
@@ -74,30 +60,10 @@ draft: false
       <li>Former system administrator at OKTET Labs</li>
     </ul>
   {{< /person >}}
-  {{< person "12" "/images/team/pavel_karpiy.jpeg" "Pavel Karpy" "Software Engineer" >}}
-    <ul>
-      <li>B.Sc. in Applied Mathematics &amp; Informatics (St. Petersburg State University)</li>
-      <li>Former software engineer at T-Systems, Distributed Ledger Technologies Center of St. Petersburg State
-        University and Devim</li>
-    </ul>
-  {{< /person >}}
-  {{< person "13" "/images/team/elizaveta_chichindaeva.jpg" "Elizaveta Chichindaeva" "QA Engineer" >}}
-    <ul>
-      <li> B.Sc. in English Linguistics &amp; Philology (St. Petersburg State University) </li>
-      <li> Former technical translator at companies RUSAL and Neo SPCC</li>
-    </ul>
-  {{< /person >}}
   {{< person "14" "/images/team/angira_kekteeva.jpg" "Angira Kekteeva" "Software Engineer" >}}
     <ul>
       <li>B.Sc. in Fundametnal Informatics and Information Technologies (St. Petersburg State University)</li>
       <li>Former software engineer at The_Covert and Krylov State Research Center</li>
-    </ul>
-  {{< /person >}}
-  {{< person "15" "/images/team/denis_kirillov.jpeg" "Denis Kirillov" "Software Engineer" >}}
-    <ul>
-      <li>M.Sc. in Computing Technologies (St. Petersburg State University)</li>
-      <li>Former software engineer at Digital Design and Distributed Ledger Technologies Center of St. Petersburg
-        State University</li>
     </ul>
   {{< /person >}}
   {{< person "16" "/images/team/mikhail_petrov.jpg" "Mikhail Petrov" "Frontend Developer" >}}
