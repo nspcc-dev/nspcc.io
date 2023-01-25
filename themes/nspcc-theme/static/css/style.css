@@ -19559,7 +19559,16 @@ header.topfixed .topmenu UL {
 	padding: 0px 30px;
 }
 
-.timer .heading h4 {
+.timer .heading .subheading {
+	font-size: 1.5rem;
+	margin-bottom: 0.5rem;
+	font-family: inherit;
+	font-weight: 500;
+	line-height: 1.2;
+}
+
+.timer .heading h4,
+.timer .heading .subheading {
 	display: inline-block;
 }
 
@@ -20145,7 +20154,8 @@ header.topfixed .topmenu UL {
 		margin-top: -75px;
 	}
 
-	.timer .heading h4 {
+	.timer .heading h4,
+	.timer .heading .subheading {
 		display: block;
 	}
 
