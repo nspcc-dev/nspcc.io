@@ -5,7 +5,7 @@
     {{ if eq (.Get 0) "left" }}
       <div class="corner"></div>
       <div class="heading">
-        <h4>{{ .Get 1 }}</h4>
+        <div class="subheading">{{ .Get 1 }}</div>
         <div class="informer">{{ .Get 2 }}</div>
       </div>
       <div class="infos">
@@ -15,7 +15,7 @@
       <div class="item-right">
         <div class="corner"></div>
         <div class="heading">
-          <h4>{{ .Get 1 }}</h4>
+          <div class="subheading">{{ .Get 1 }}</div>
           <div class="informer">{{ .Get 2 }}</div>
         </div>
         <div class="infos">
