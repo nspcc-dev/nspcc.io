@@ -19,11 +19,11 @@ draft: false
       <li>PhD in Information Systems (ETH Zurich)</li>
       <li>M.Sc. in Artificial Intelligence (Maastricht University)</li>
       <li>
-        Co-founder at <a href="https://neonexchange.org" target="_blank">Nash</a></li>
+        Co-founder at <a href="https://neonexchange.org" target="_blank" alt="Nash">Nash</a></li>
       <li>
-        Co-founder at <a href="https://cityofzion.io" target="_blank">City of Zion</a></li>
+        Co-founder at <a href="https://cityofzion.io" target="_blank" alt="City of Zion">City of Zion</a></li>
       <li>
-        Founder and lead software developer at <a href="https://altoida.com" target="_blank">Altoida</a></li>
+        Founder and lead software developer at <a href="https://altoida.com" target="_blank" alt="Altoida">Altoida</a></li>
     </ul>
   {{< /person >}}
   {{< person "5" "/images/team/roman_himov.jpg" "Roman Khimov" "Chief Technical Officer" >}}
@@ -82,7 +82,7 @@ draft: false
 {{< /persons >}}
 
 {{< roadmap "Roadmap" >}}
-щ  {{< roadmap_item "left" "Q1 2023" "Structural simplification" >}}
+  {{< roadmap_item "left" "Q1 2023" "Structural simplification" >}}
     <ul>
       <li>Inner ring and blockchain node unification</li>
       <li>System update procedure simplification</li>

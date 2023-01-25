@@ -18,9 +18,9 @@ draft: false
     <ul>
       <li>PhD в области Информационных Систем (ETH Zurich)</li>
       <li>Магистр Искусственного Интеллекта (Maastricht University)</li>
-      <li>Сооснователь <a href="https://neonexchange.org" target="_blank">Nash</a></li>
-      <li>Сооснователь <a href="https://cityofzion.io" target="_blank">City of Zion</a></li>
-      <li>Основатель и ведущий разработчик <a href="https://altoida.com" target="_blank">Altoida</a></li>
+      <li>Сооснователь <a href="https://neonexchange.org" target="_blank" alt="Nash">Nash</a></li>
+      <li>Сооснователь <a href="https://cityofzion.io" target="_blank" alt="City of Zion">City of Zion</a></li>
+      <li>Основатель и ведущий разработчик <a href="https://altoida.com" target="_blank" alt="Altoida">Altoida</a></li>
     </ul>
   {{< /person >}}
   {{< person "5" "/images/team/roman_himov.jpg" "Роман Химов" "Технический директор" >}}
