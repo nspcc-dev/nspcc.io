@@ -19149,7 +19149,7 @@ H3 {
 }
 
 .intro {
-	background-image: url(/images/intro.jpg);
+	background-image: url(/images/intro.webp);
 	background-size: cover;
 	background-position: center;
 	position: absolute;
@@ -19478,7 +19478,7 @@ header.topfixed .topmenu UL {
 	background-size: contain;
 	/*background-repeat: no-repeat;*/
 	background-position: center;
-	background-image: url(/images/team/mask.png);
+	background-image: url(/images/team/mask.webp);
 }
 
 .persons .item .fio {
@@ -19863,7 +19863,7 @@ header.topfixed .topmenu UL {
 
 .page404 {
 	background-color: #1b3040;
-	background-image: url(/images/intro.jpg);
+	background-image: url(/images/intro.webp);
 	background-size: cover;
 	background-position: center;
 }
@@ -20014,7 +20014,7 @@ header.topfixed .topmenu UL {
 	.introText {
 		position: relative;
 		background-color: #203648;
-		background-image: url(/images/intro_mobile.jpg);
+		background-image: url(/images/intro_mobile.webp);
 		background-size: cover;
 		background-position: center;
 	}

@@ -6,7 +6,7 @@ draft: false
 ---
 
 {{< persons "Team" >}}
-  {{< person "2" "/images/team/sergey_lyubich.jpg" "Sergei Liubich" "Chief Executive Officer" >}}
+  {{< person "2" "/images/team/sergey_lyubich.webp" "Sergei Liubich" "Chief Executive Officer" >}}
     <ul>
       <li>PhD Candidate in Reliability of Distributed Computer Systems (ITMO University)</li>
       <li>M.Sc. in Computer &amp; Electrical Engineering (Seoul National University)</li>
@@ -14,7 +14,7 @@ draft: false
       <li>Former research engineer at Samsung Electronics (Seoul R&amp;D Center)</li>
     </ul>
   {{< /person >}}
-  {{< person "3" "/images/team/fabian_waale.jpg" "Fabian Wahle" "Strategic Advisor" >}}
+  {{< person "3" "/images/team/fabian_waale.webp" "Fabian Wahle" "Strategic Advisor" >}}
     <ul>
       <li>PhD in Information Systems (ETH Zurich)</li>
       <li>M.Sc. in Artificial Intelligence (Maastricht University)</li>
@@ -26,54 +26,54 @@ draft: false
         Founder and lead software developer at <a href="https://altoida.com" target="_blank" alt="Altoida">Altoida</a></li>
     </ul>
   {{< /person >}}
-  {{< person "5" "/images/team/roman_himov.jpg" "Roman Khimov" "Chief Technical Officer" >}}
+  {{< person "5" "/images/team/roman_himov.webp" "Roman Khimov" "Chief Technical Officer" >}}
     <ul>
       <li>Diploma of Engineer in Embedded Systems (ITMO University)</li>
       <li>Former team lead at Kraftway Corporation and head of network equipment department at
         Altell</li>
     </ul>
   {{< /person >}}
-  {{< person "7" "/images/team/anastasiya_prasolova.jpeg" "Anastasia Prasolova" "Software Engineer" >}}
+  {{< person "7" "/images/team/anastasiya_prasolova.webp" "Anastasia Prasolova" "Software Engineer" >}}
     <ul>
       <li>B.Sc. in Software Engineering (ITMO University)</li>
       <li>Former software engineer at Dell-EMC, configuration manager at T-Systems, and also system administrator
         at Yandex</li>
     </ul>
   {{< /person >}}
-  {{< person "8" "/images/team/leonard_lubitsch.jpg" "Leonard Liubich" "Software Engineer" >}}
+  {{< person "8" "/images/team/leonard_lubitsch.webp" "Leonard Liubich" "Software Engineer" >}}
     <ul>
       <li>B.Sc. in Applied Mathematics &amp; Informatics (St. Petersburg State University)</li>
       <li>
         Former software engineer at R&amp;D Center "Metrotek"</li>
     </ul>
   {{< /person >}}
-  {{< person "10" "/images/team/anna_shaleva.jpg" "Anna Shaleva" "Software Engineer" >}}
+  {{< person "10" "/images/team/anna_shaleva.webp" "Anna Shaleva" "Software Engineer" >}}
     <ul>
       <li>M.Sc. in Applied Mathematics &amp; Informatics (St. Petersburg State University)</li>
       <li>Former software engineer at EPAM Systems Inc. and Distributed Ledger Technologies Center of St.
         Petersburg State University</li>
     </ul>
   {{< /person >}}
-  {{< person "11" "/images/team/sergio_nemirowski.jpg" "Sergio Nemirowski" "System Administrator" >}}
+  {{< person "11" "/images/team/sergio_nemirowski.webp" "Sergio Nemirowski" "System Administrator" >}}
     <ul>
       <li>Phys-tech, Peter the Great St. Petersburg Polytechnic University</li>
       <li>Former system administrator at OKTET Labs</li>
     </ul>
   {{< /person >}}
-  {{< person "14" "/images/team/angira_kekteeva.jpg" "Angira Kekteeva" "Software Engineer" >}}
+  {{< person "14" "/images/team/angira_kekteeva.webp" "Angira Kekteeva" "Software Engineer" >}}
     <ul>
       <li>B.Sc. in Fundametnal Informatics and Information Technologies (St. Petersburg State University)</li>
       <li>Former software engineer at The_Covert and Krylov State Research Center</li>
     </ul>
   {{< /person >}}
-  {{< person "16" "/images/team/mikhail_petrov.jpg" "Mikhail Petrov" "Frontend Developer" >}}
+  {{< person "16" "/images/team/mikhail_petrov.webp" "Mikhail Petrov" "Frontend Developer" >}}
     <ul>
       <li>B.Sc. in Fundamental Informatics and Information Technologies (St. Petersburg State University)</li>
       <li>Former frontend developer at Distributed Ledger Technologies Center of St. Petersburg State University
         and startup company Tensy</li>
     </ul>
   {{< /person >}}
-  {{< person "17" "/images/team/maksim_gelbahiani.jpg" "Maksim Gelbahiani" "DevOps Engineer" >}}
+  {{< person "17" "/images/team/maksim_gelbahiani.webp" "Maksim Gelbahiani" "DevOps Engineer" >}}
     <ul>
       <li>Applied Mathematics & Informatics (St. Petersburg State University)</li>
       <li>Former principal QA engineer at Yadro and Dell EMC</li>
