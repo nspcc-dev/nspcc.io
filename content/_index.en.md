@@ -79,6 +79,12 @@ draft: false
       <li>Former principal QA engineer at Yadro and Dell EMC</li>
     </ul>
   {{< /person >}}
+  {{< person "18" "/images/team/oleg_kulachenko.webp" "Oleg Kulachenko" "QA Engineer" >}}
+    <ul>
+      <li>B.Sc. in Computer Science (ITMO University)</li>
+      <li>Former principal software engineer at Yadro and senior QA engineer at Dell EMC</li>
+    </ul>
+  {{< /person >}}
 {{< /persons >}}
 
 {{< roadmap "Roadmap" >}}
