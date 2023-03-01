@@ -85,6 +85,12 @@ draft: false
       <li>Former principal software engineer at Yadro and senior QA engineer at Dell EMC</li>
     </ul>
   {{< /person >}}
+  {{< person "19" "/images/team/evgenii_baidakov.webp" "Evgenii Baidakov" "Software Engineer" >}}
+    <ul>
+      <li>Specialist Degree in Computer Science (Voronezh State University)</li>
+      <li>Former senior software developer at VK, OZON, and lead software developer at Game Insight</li>
+    </ul>
+  {{< /person >}}
 {{< /persons >}}
 
 {{< roadmap "Roadmap" >}}
