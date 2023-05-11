@@ -60,6 +60,13 @@ draft: false
       <li>Former system administrator at OKTET Labs</li>
     </ul>
   {{< /person >}}
+  {{< person "12" "/images/team/pavel_karpiy.webp" "Pavel Karpy" "Software Engineer" >}}
+    <ul>
+      <li>B.Sc. in Applied Mathematics &amp; Informatics (St. Petersburg State University)</li>
+      <li>Former software engineer at T-Systems, Distributed Ledger Technologies Center of St. Petersburg State
+        University and Devim</li>
+    </ul>
+  {{< /person >}}
   {{< person "16" "/images/team/mikhail_petrov.webp" "Mikhail Petrov" "Frontend Developer" >}}
     <ul>
       <li>B.Sc. in Fundamental Informatics and Information Technologies (St. Petersburg State University)</li>
