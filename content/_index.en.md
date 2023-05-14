@@ -63,7 +63,7 @@ draft: false
   {{< person "12" "/images/team/pavel_karpiy.webp" "Pavel Karpy" "Software Engineer" >}}
     <ul>
       <li>B.Sc. in Applied Mathematics &amp; Informatics (St. Petersburg State University)</li>
-      <li>Former software engineer at T-Systems, Distributed Ledger Technologies Center of St. Petersburg State
+      <li>Former software engineer at Yadro, T-Systems, Distributed Ledger Technologies Center of St. Petersburg State
         University and Devim</li>
     </ul>
   {{< /person >}}
