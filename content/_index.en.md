@@ -92,6 +92,12 @@ draft: false
       <li>Former senior software developer at VK, OZON, and lead software developer at Game Insight</li>
     </ul>
   {{< /person >}}
+  {{< person "20" "/images/team/tatiana_nesterenko.webp" "Tatiana Nesterenko" "Software Engineer" >}}
+    <ul>
+      <li>M.Sc. in Applied Mathematics & Informatics (Southern Federal University) </li>
+      <li>Former lead software engineer at Game Insight</li>
+    </ul>
+  {{< /person >}}
 {{< /persons >}}
 
 {{< roadmap "Roadmap" >}}
