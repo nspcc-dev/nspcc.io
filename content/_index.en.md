@@ -74,7 +74,7 @@ draft: false
         and startup company Tensy</li>
     </ul>
   {{< /person >}}
-  {{< person "17" "/images/team/maksim_gelbakhiani.webp" "Maksim Gelbakhiani" "DevOps Engineer" >}}
+  {{< person "17" "/images/team/maksim_gelbakhiani.webp" "Maksim Gelbakhiani" "Testing and QA Engineer" >}}
     <ul>
       <li>Applied Mathematics & Informatics (St. Petersburg State University)</li>
       <li>Former principal QA engineer at Yadro and Dell EMC</li>
