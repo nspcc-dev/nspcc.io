@@ -71,7 +71,7 @@ draft: false
         Государственного Университета и стартап-компании Tensy</li>
     </ul>
   {{< /person >}}
-  {{< person "17" "/images/team/maksim_gelbakhiani.webp" "Максим Гелбахиани" "DevOps Инженер" >}}
+  {{< person "17" "/images/team/maksim_gelbakhiani.webp" "Максим Гелбахиани" "Инженер по тестированию и QA" >}}
     <ul>
       <li>Прикладная Математика и Информатика (Санкт-Петербургский Государственный Университет)</li>
       <li>Работал ведущим QA инженером в компаниях Yadro и Dell EMC</li>
