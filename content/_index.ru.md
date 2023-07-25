@@ -23,18 +23,11 @@ draft: false
       <li>Основатель и ведущий разработчик <a href="https://altoida.com" target="_blank" alt="Altoida">Altoida</a></li>
     </ul>
   {{< /person >}}
-  {{< person "5" "/images/team/roman_himov.webp" "Роман Химов" "Технический директор" >}}
+  {{< person "5" "/images/team/roman_khimov.webp" "Роман Химов" "Технический директор" >}}
     <ul>
       <li>Диплом Инженера Встраиваемых Систем (Университет ИТМО)</li>
       <li>Работал руководителем группы в компании Kraftway Corporation и руководителем направления
         по сетевому обрудованию компании Altell</li>
-    </ul>
-  {{< /person >}}
-  {{< person "7" "/images/team/anastasiya_prasolova.webp" "Анастасия Прасолова" "Инженер-Программист" >}}
-    <ul>
-      <li>Бакалавр Программной Инженерии (Университет ИТМО)</li>
-      <li>Работала инженером-программистом в компании Dell-EMC, менеджером конфигурации в компании T-Systems, а
-        также системным администратором в компании Яндекс</li>
     </ul>
   {{< /person >}}
   {{< person "8" "/images/team/leonard_lubitsch.webp" "Леонард Любич" "Инженер-Программист" >}}

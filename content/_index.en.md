@@ -26,18 +26,11 @@ draft: false
         Founder and lead software developer at <a href="https://altoida.com" target="_blank" alt="Altoida">Altoida</a></li>
     </ul>
   {{< /person >}}
-  {{< person "5" "/images/team/roman_himov.webp" "Roman Khimov" "Chief Technical Officer" >}}
+  {{< person "5" "/images/team/roman_khimov.webp" "Roman Khimov" "Chief Technical Officer" >}}
     <ul>
       <li>Diploma of Engineer in Embedded Systems (ITMO University)</li>
       <li>Former team lead at Kraftway Corporation and head of network equipment department at
         Altell</li>
-    </ul>
-  {{< /person >}}
-  {{< person "7" "/images/team/anastasiya_prasolova.webp" "Anastasia Prasolova" "Software Engineer" >}}
-    <ul>
-      <li>B.Sc. in Software Engineering (ITMO University)</li>
-      <li>Former software engineer at Dell-EMC, configuration manager at T-Systems, and also system administrator
-        at Yandex</li>
     </ul>
   {{< /person >}}
   {{< person "8" "/images/team/leonard_lubitsch.webp" "Leonard Liubich" "Software Engineer" >}}
