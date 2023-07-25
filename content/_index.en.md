@@ -33,13 +33,6 @@ draft: false
         Altell</li>
     </ul>
   {{< /person >}}
-  {{< person "7" "/images/team/anastasiya_prasolova.webp" "Anastasia Prasolova" "Software Engineer" >}}
-    <ul>
-      <li>B.Sc. in Software Engineering (ITMO University)</li>
-      <li>Former software engineer at Dell-EMC, configuration manager at T-Systems, and also system administrator
-        at Yandex</li>
-    </ul>
-  {{< /person >}}
   {{< person "8" "/images/team/leonard_lubitsch.webp" "Leonard Liubich" "Software Engineer" >}}
     <ul>
       <li>B.Sc. in Applied Mathematics &amp; Informatics (St. Petersburg State University)</li>
