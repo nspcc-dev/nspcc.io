@@ -23,7 +23,7 @@ draft: false
       <li>Основатель и ведущий разработчик <a href="https://altoida.com" target="_blank" alt="Altoida">Altoida</a></li>
     </ul>
   {{< /person >}}
-  {{< person "5" "/images/team/roman_himov.webp" "Роман Химов" "Технический директор" >}}
+  {{< person "5" "/images/team/roman_khimov.webp" "Роман Химов" "Технический директор" >}}
     <ul>
       <li>Диплом Инженера Встраиваемых Систем (Университет ИТМО)</li>
       <li>Работал руководителем группы в компании Kraftway Corporation и руководителем направления

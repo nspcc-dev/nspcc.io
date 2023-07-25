@@ -26,7 +26,7 @@ draft: false
         Founder and lead software developer at <a href="https://altoida.com" target="_blank" alt="Altoida">Altoida</a></li>
     </ul>
   {{< /person >}}
-  {{< person "5" "/images/team/roman_himov.webp" "Roman Khimov" "Chief Technical Officer" >}}
+  {{< person "5" "/images/team/roman_khimov.webp" "Roman Khimov" "Chief Technical Officer" >}}
     <ul>
       <li>Diploma of Engineer in Embedded Systems (ITMO University)</li>
       <li>Former team lead at Kraftway Corporation and head of network equipment department at
