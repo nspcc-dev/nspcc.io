@@ -91,6 +91,12 @@ draft: false
       <li>Former lead software engineer at Game Insight</li>
     </ul>
   {{< /person >}}
+  {{< person "21" "/images/team/evgenii_zaiats.webp" "Evgenii Zaiats" "QA Engineer" >}}
+    <ul>
+      <li>B.Sc. in Information Technology (St. Petersburg State Transport University)</li>
+      <li>Former lead QA automation engineer at Yadro, QA automation engineer at Yandex, and mainframe senior software engineer at Dell-EMC</li>
+    </ul>
+  {{< /person >}}
 {{< /persons >}}
 
 {{< roadmap "Roadmap" >}}
