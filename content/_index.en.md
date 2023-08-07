@@ -97,6 +97,12 @@ draft: false
       <li>Former lead QA automation engineer at Yadro, QA automation engineer at Yandex, and mainframe senior software engineer at Dell-EMC</li>
     </ul>
   {{< /person >}}
+  {{< person "22" "/images/team/ekaterina_pavlova.webp" "Ekaterina Pavlova" "Software Engineer" >}}
+    <ul>
+      <li>M.Sc. in Distributed Computational Technologies (St. Petersburg State University)</li>
+      <li>Former software engineer at Lanit-Tercom and Huawei Russian Research Institute</li>
+    </ul>
+  {{< /person >}}
 {{< /persons >}}
 
 {{< roadmap "Roadmap" >}}
