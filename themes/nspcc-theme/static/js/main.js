@@ -1939,18 +1939,6 @@ $(function () {
 			return i = null,
 			p
 	}
-	!function() {
-			var b, c, e = d.createElement("div");
-			for (b in {
-					submit: !0,
-					change: !0,
-					focusin: !0
-			})
-					c = "on" + b,
-					(l[b] = c in a) || (e.setAttribute(c, "t"),
-					l[b] = e.attributes[c].expando === !1);
-			e = null
-	}();
 	var ka = /^(?:input|select|textarea)$/i
 		, la = /^key/
 		, ma = /^(?:mouse|pointer|contextmenu|drag|drop)|click/
