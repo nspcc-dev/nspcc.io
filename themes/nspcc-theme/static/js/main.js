@@ -8619,6 +8619,7 @@ Distributed under the MIT License (license terms are at http://opensource.org/li
 	}, B = /[\-+]?[\d]*\.?[\d]+/g, _ = /\{\?\}/g, G = /rgba?\(\s*-?\d+\s*,\s*-?\d+\s*,\s*-?\d+/g, L = /[a-z\-]+-gradient/g, N = "", $ = "", M = function() {
 			var e = /^(?:O|Moz|webkit|ms)|(?:-(?:o|moz|webkit|ms)-)/;
 			if (c) {
+				try {
 					var t = c(a, null);
 					for (var n in t)
 							if (N = n.match(e) || +n == n && t[n].match(e))
@@ -8634,6 +8635,7 @@ Distributed under the MIT License (license terms are at http://opensource.org/li
 							"-ms-": "ms",
 							"-o-": "O"
 					}[N]) : $ = "-" + N.toLowerCase() + "-"
+				} catch (e) {}
 			}
 	}, R = function() {
 			var t = e.requestAnimationFrame || e[N.toLowerCase() + "RequestAnimationFrame"]
@@ -8812,7 +8814,9 @@ Distributed under the MIT License (license terms are at http://opensource.org/li
 	}
 	,
 	n.prototype.getScrollTop = function() {
+		try {
 			return zt ? Ot : e.pageYOffset || o.scrollTop || a.scrollTop || 0
+		} catch (e) {}
 	}
 	,
 	n.prototype.on = function(e, t) {
@@ -9108,9 +9112,11 @@ Distributed under the MIT License (license terms are at http://opensource.org/li
 			zt ? ot.setScrollTop(s.min(ot.getScrollTop(), Et)) : ot.setScrollTop(e, !0),
 			mt = !0
 	}, Tt = function() {
-			var e = it && it.offsetHeight || 0
-				, t = s.max(e, a.scrollHeight, a.offsetHeight, o.scrollHeight, o.offsetHeight, o.clientHeight);
-			return t - o.clientHeight
+			try {
+				var e = it && it.offsetHeight || 0
+					, t = s.max(e, a.scrollHeight, a.offsetHeight, o.scrollHeight, o.offsetHeight, o.clientHeight);
+				return t - o.clientHeight
+			} catch (e) {}
 	}, bt = function(t) {
 			var r = "className";
 			return e.SVGElement && t instanceof e.SVGElement && (t = t[r],
