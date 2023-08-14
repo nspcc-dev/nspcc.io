@@ -60,7 +60,7 @@ draft: false
         University and Devim</li>
     </ul>
   {{< /person >}}
-  {{< person "16" "/images/team/mikhail_petrov.webp" "Mikhail Petrov" "Frontend Developer" >}}
+  {{< person "16" "/images/team/mikhail_petrov.webp" "Mikhail Petrov" "Software Engineer" >}}
     <ul>
       <li>B.Sc. in Fundamental Informatics and Information Technologies (St. Petersburg State University)</li>
       <li>Former frontend developer at Distributed Ledger Technologies Center of St. Petersburg State University
