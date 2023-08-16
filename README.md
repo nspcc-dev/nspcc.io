@@ -10,3 +10,7 @@
 ![License](https://img.shields.io/github/license/nspcc-dev/nspcc.io.svg?style=popout)
 
 # nspcc.ru
+
+# License
+
+- [GNU General Public License v3.0](LICENSE)
