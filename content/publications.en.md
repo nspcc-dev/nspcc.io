@@ -38,7 +38,7 @@ Anatoly Bogatyrev
 23rd International Conference on Distributed Computer and Communication Networks: Control, Computation, Communications (DCCN 2020)  
 Moscow, Russia, September 14–18, 2020  
 
-[**CONSENSUS 2020: NeoFS: Decentralized Storage for the Real Economy**](https://www.youtube.com/watch?v=YRm77r_6sw0&t=5s)  
+[**CONSENSUS 2020: NeoFS: Decentralized Storage for the Real Economy**](https://www.youtube.com/watch?v=8JjDx8JrHjM)
 Stanislav Bogatyrev  
 CONSENSUS 2020  
 New York, USA, May 11, 2020  
