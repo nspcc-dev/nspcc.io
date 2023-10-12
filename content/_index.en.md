@@ -8,7 +8,6 @@ draft: false
 {{< persons "Team" >}}
   {{< person "2" "/images/team/sergey_lyubich.webp" "Sergei Liubich" "Chief Executive Officer" >}}
     <ul>
-      <li>PhD Candidate in Reliability of Distributed Computer Systems (ITMO University)</li>
       <li>M.Sc. in Computer &amp; Electrical Engineering (Seoul National University)</li>
       <li>M.Sc. in Applied Mathematics &amp; Informatics (St. Petersburg State University)</li>
       <li>Former research engineer at Samsung Electronics (Seoul R&amp;D Center)</li>
