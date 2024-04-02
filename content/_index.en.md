@@ -66,18 +66,6 @@ draft: false
         and startup company Tensy</li>
     </ul>
   {{< /person >}}
-  {{< person "17" "/images/team/maksim_gelbakhiani.webp" "Maksim Gelbakhiani" "Testing and QA Engineer" >}}
-    <ul>
-      <li>Applied Mathematics & Informatics (St. Petersburg State University)</li>
-      <li>Former principal QA engineer at Yadro and Dell EMC</li>
-    </ul>
-  {{< /person >}}
-  {{< person "18" "/images/team/oleg_kulachenko.webp" "Oleg Kulachenko" "QA Engineer" >}}
-    <ul>
-      <li>B.Sc. in Computer Science (ITMO University)</li>
-      <li>Former principal software engineer at Yadro and senior QA engineer at Dell EMC</li>
-    </ul>
-  {{< /person >}}
   {{< person "19" "/images/team/evgenii_baidakov.webp" "Evgenii Baidakov" "Software Engineer" >}}
     <ul>
       <li>Specialist Degree in Computer Science (Voronezh State University)</li>
