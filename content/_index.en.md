@@ -93,14 +93,33 @@ draft: false
 {{< /persons >}}
 
 {{< roadmap "Roadmap" >}}
-  {{< roadmap_item "right" "Q4 2023" "Digging into metadata" >}}
+  {{< roadmap_item "right" "Q2 2024" "Digging into metadata" >}}
     <ul>
       <li>New metadata handling subsystem prototype</li>
       <li>Performance improvements</li>
-      <li>Complete contract management integration</li>
-      <li>NeoFS protocol extensions for big objects and EACL</li>
-      <li>NEP-14 extended data types</li>
-      <li>Handling events and iterators in NeoGo RPC code generator</li>
+      <li>New session token format</li>
+      <li>dBFT modification for MEV Ethereum protection</li>
+    </ul>
+  {{< /roadmap_item >}}
+  {{< roadmap_item "left" "Q1 2024" "Panel and protocol extensions" >}}
+    <ul>
+      <li>NeoFS Panel public release at panel.fs.neo.org</li>
+      <li>NeoFS protocol extensions for replication, big objects, EACL and search</li>
+      <li>REST gateway extensions and complete replacement of HTTP gateway</li>
+      <li>dBFT library refactoring</li>
+      <li>Stable multinode dBFT consensus for Ethereum</li>
+    </ul>
+  {{< /roadmap_item >}}
+  {{< roadmap_item "right" "Q4 2023" "Performance and new tools" >}}
+    <ul>
+      <li>Publishing SFTP gateway and Neo exporter</li>
+      <li>GitHub action to publish things into NeoFS</li>
+      <li>Core protocol performance improvements</li>
+      <li>Verified storage node attributes</li>
+      <li>Complete NeoFS contract management integration</li>
+      <li>S3 compatibility and performance improvements</li>
+      <li>Extended genesis configuration for NeoGo</li>
+      <li>Initial dBFT integration into Ethereum</li>
     </ul>
   {{< /roadmap_item >}}
   {{< roadmap_item "left" "Q3 2023" "Improving integration" >}}
