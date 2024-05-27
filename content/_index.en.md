@@ -32,6 +32,12 @@ draft: false
         Altell</li>
     </ul>
   {{< /person >}}
+  {{< person "6" "/images/team/sergey_eremenko.webp" "Sergey Eremenko" "Chief Solutions Officer" >}}
+    <ul>
+      <li>Founder Innovative IT Infrastructure Solutions</li>
+      <li>Former senior IT infrastructure engineer at Tinkoff and Alfa-Bank</li>
+    </ul>
+  {{< /person >}}
   {{< person "8" "/images/team/leonard_lubitsch.webp" "Leonard Liubich" "Software Engineer" >}}
     <ul>
       <li>B.Sc. in Applied Mathematics &amp; Informatics (St. Petersburg State University)</li>
