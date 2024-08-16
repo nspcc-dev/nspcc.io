@@ -96,6 +96,12 @@ draft: false
       <li>Former software engineer at Lanit-Tercom and Huawei Russian Research Institute</li>
     </ul>
   {{< /person >}}
+  {{< person "23" "/images/team/andrey_butusov.webp" "Andrey Butusov" "Software Engineer" >}}
+    <ul>
+      <li>B.Sc. in Applied Mathematics & Informatics (St. Petersburg State University)</li>
+      <li>Worked on a project for the St. Petersburg government to optimise the location of the MFC office network in the city</li>
+    </ul>
+  {{< /person >}}
 {{< /persons >}}
 
 {{< roadmap "Roadmap" >}}
