@@ -105,12 +105,35 @@ draft: false
 {{< /persons >}}
 
 {{< roadmap "Roadmap" >}}
-  {{< roadmap_item "right" "Q2 2024" "Digging into metadata" >}}
+  {{< roadmap_item "left" "Q1 2025" "Fast search, N3 accounts in NeoFS, more meta" >}}
     <ul>
+      <li>More performant and capable search API</li>
+      <li>Full support for N3 accounts in NeoFS</li>
       <li>New metadata handling subsystem prototype</li>
-      <li>Performance improvements</li>
-      <li>New session token format</li>
+      <li>Snapshot-based blockchain synchronization</li>
+    </ul>
+  {{< /roadmap_item >}}
+  {{< roadmap_item "right" "Q4 2024" "Digging into metadata" >}}
+    <ul>
+      <li>SDK refactoring with dependency chain simplification</li>
+      <li>Contracts for chained metadata solution</li>
+      <li>Decentralized settings management</li>
+      <li>S3 gateway improvements for real applications</li>
+      <li>Stable NeoX block hashes</li>
+    </ul>
+  {{< /roadmap_item >}}
+  {{< roadmap_item "left" "Q3 2024" "dBFT extension and block storage in NeoFS" >}}
+    <ul>
+      <li>Account-based (vs key-based) EACL targets</li>
+      <li>Blocks stored in NeoFS and blockchain node synchronization from this storage</li>
       <li>dBFT modification for MEV Ethereum protection</li>
+    </ul>
+  {{< /roadmap_item >}}
+  {{< roadmap_item "right" "Q2 2024" "dBFT research for new challenges" >}}
+    <ul>
+      <li>Performance improvements</li>
+      <li>Researching sub-second block time dBFT behavior</li>
+      <li>TLA+ model for MEV-related dBFT modifications</li>
     </ul>
   {{< /roadmap_item >}}
   {{< roadmap_item "left" "Q1 2024" "Panel and protocol extensions" >}}
