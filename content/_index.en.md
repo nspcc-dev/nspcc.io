@@ -105,12 +105,20 @@ draft: false
 {{< /persons >}}
 
 {{< roadmap "Roadmap" >}}
-  {{< roadmap_item "left" "Q1 2025" "Fast search, N3 accounts in NeoFS, more meta" >}}
+  {{< roadmap_item "right" "Q2 2025" "N3 accounts in NeoFS, new token model" >}}
+    <ul>
+      <li>Full support for N3 accounts in NeoFS</li>
+      <li>Token model rework to support more usage scenarios</li>
+      <li>Snapshot-based blockchain synchronization</li>
+    </ul>
+  {{< /roadmap_item >}}
+  {{< roadmap_item "left" "Q1 2025" "Fast search, more meta" >}}
     <ul>
       <li>More performant and capable search API</li>
-      <li>Full support for N3 accounts in NeoFS</li>
+      <li><a href="https://archive.fs.neo.org/">archive.fs.neo.org</a></li>
+      <li>S3 rework to drop experimental dependencies</li>
+      <li>Switch to 1s blocks on all networks</li>
       <li>New metadata handling subsystem prototype</li>
-      <li>Snapshot-based blockchain synchronization</li>
     </ul>
   {{< /roadmap_item >}}
   {{< roadmap_item "right" "Q4 2024" "Digging into metadata" >}}
