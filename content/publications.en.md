@@ -20,13 +20,13 @@ Anatoly Bogatyrev
 Anniversary 30th International Conference on Computer Graphics and Machine Vision (GraphiCon 2020)  
 Saint Petersburg, Russia, September 22-25, 2020  
 
-**BYZANT: Exploring the Application Scenarios of NeoFS**  
+[**BYZANT: Exploring the Application Scenarios of NeoFS**](https://neonewstoday.com/general/byzant-exploring-the-application-scenarios-of-neofs-with-stanislav-bogatyrev-of-neo-spcc/)  
 Stanislav Bogatyrev  
 September 15, 2020  
 
 **Redundant Servicing of a Flow of Heterogeneous Requests Critical to the Total Waiting Time During the Multipath Passage of a Sequence of Info-Communication Nodes**  
 Anatoly Bogatyrev  
-Paper will be published soon (indexed in SCOPUS), Springer  
+Distributed Computer and Communication Networks, DCCN 2020, Lecture Notes in Computer Science(), vol. 12563, Springer, Cham  
 
 **Data Migration Rate of the CRUSH-based Distributed Object Storage with Dynamic Topology**  
 Alexey Vanin  
@@ -38,7 +38,7 @@ Anatoly Bogatyrev
 23rd International Conference on Distributed Computer and Communication Networks: Control, Computation, Communications (DCCN 2020)  
 Moscow, Russia, September 14–18, 2020  
 
-[**CONSENSUS 2020: NeoFS: Decentralized Storage for the Real Economy**](https://www.youtube.com/watch?v=8JjDx8JrHjM)
+[**NeoFS: Decentralized Storage for the Real Economy**](https://www.youtube.com/watch?v=8JjDx8JrHjM)  
 Stanislav Bogatyrev  
 CONSENSUS 2020  
 New York, USA, May 11, 2020  
@@ -69,14 +69,14 @@ Saint Petersburg, Russia, June 1-5, 2020
 Alexey Vanin, Sergei Liubich, Stanislav Bogatyrev, Fabian Wahle, Vladimir Bogatyrev  
 indexed in SCOPUS  
 Proceedings of the 11th Majorov International Conference on Software Engineering and Computer Systems  
-CEUR Workshop Proceedings, MICSECS 2020  
+MICSECS 2020, CEUR Workshop Proceedings  
 Saint Petersburg, Russia, December 12-13, 2020  
 
 **The Probability of Timely Redundant Service of Requests by a Sequence of Servers in a Multi-Level Cluster**  
 Anatoly Bogatyrev, Stanislav Bogatyrev, Vladimir Bogatyrev  
 indexed in SCOPUS  
 Proceedings of the 11th Majorov International Conference on Software Engineering and Computer Systems  
-CEUR Workshop Proceedings, MICSECS 2020  
+MICSECS 2020, CEUR Workshop Proceedings  
 Saint Petersburg, Russia, December 12-13, 2020  
 
 **Go Assembler or how We Accelerated Our Homomorphic Hashing Code by N times**  
