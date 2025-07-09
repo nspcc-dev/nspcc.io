@@ -99,10 +99,18 @@ draft: false
 {{< /persons >}}
 
 {{< roadmap "Roadmap" >}}
-  {{< roadmap_item "right" "Q2 2025" "N3 accounts in NeoFS, new token model" >}}
+  {{< roadmap_item "left" "Q3 2025" "Erasure coding" >}}
+    <ul>
+      <li>Erasure coding</li>
+      <li>Token model rework to support more usage scenarios</li>
+      <li>Dynamic block time</li>
+      <li>Quotas</li>
+    </ul>
+  {{< /roadmap_item >}}
+  {{< roadmap_item "right" "Q2 2025" "N3 accounts in NeoFS, NUMA" >}}
     <ul>
       <li>Full support for N3 accounts in NeoFS</li>
-      <li>Token model rework to support more usage scenarios</li>
+      <li>Performance improvements for NUMA machines</li>
       <li>Snapshot-based blockchain synchronization</li>
     </ul>
   {{< /roadmap_item >}}
