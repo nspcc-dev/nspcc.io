@@ -96,6 +96,12 @@ draft: false
       <li>Worked on a project for the St. Petersburg government to optimise the location of the MFC office network in the city</li>
     </ul>
   {{< /person >}}
+  {{< person "24" "/images/team/tural_devrishev.webp" "Tural Devrishev" "Software Engineer" >}}
+    <ul>
+      <li>B.Sc. in Programming & Information Technology (St. Petersburg State University)</li>
+      <li>Worked on a project for detecting lung pathologies in X-ray images for Vista LLC</li>
+    </ul>
+  {{< /person >}}
 {{< /persons >}}
 
 {{< roadmap "Roadmap" >}}
