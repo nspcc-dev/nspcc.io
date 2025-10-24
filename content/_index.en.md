@@ -105,10 +105,18 @@ draft: false
 {{< /persons >}}
 
 {{< roadmap "Roadmap" >}}
+  {{< roadmap_item "right" "Q4 2025" "Mutable containers" >}}
+    <ul>
+      <li>Erasure coding</li>
+      <li>NEP-11 containers</li>
+      <li>Initial placement policies</li>
+      <li>Token model rework to support more usage scenarios</li>
+    </ul>
+  {{< /roadmap_item >}}
   {{< roadmap_item "left" "Q3 2025" "Erasure coding" >}}
     <ul>
       <li>Erasure coding</li>
-      <li>Token model rework to support more usage scenarios</li>
+      <li>More efficient payload streaming</li>
       <li>Dynamic block time</li>
       <li>Quotas</li>
     </ul>
