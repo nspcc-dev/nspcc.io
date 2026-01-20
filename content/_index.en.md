@@ -105,11 +105,19 @@ draft: false
 {{< /persons >}}
 
 {{< roadmap "Roadmap" >}}
+  {{< roadmap_item "left" "Q1 2026" "Performance & meta" >}}
+    <ul>
+      <li>Performance improvements</li>
+      <li>Faster maintenance tools</li>
+      <li>Initial placement policies</li>
+      <li>Separate metadata chain</li>
+    </ul>
+  {{< /roadmap_item >}}
   {{< roadmap_item "right" "Q4 2025" "Mutable containers" >}}
     <ul>
       <li>Erasure coding</li>
       <li>NEP-11 containers</li>
-      <li>Initial placement policies</li>
+      <li>Notary service optimizations</li>
       <li>Token model rework to support more usage scenarios</li>
     </ul>
   {{< /roadmap_item >}}
