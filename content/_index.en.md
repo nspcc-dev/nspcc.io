@@ -105,12 +105,18 @@ draft: false
 {{< /persons >}}
 
 {{< roadmap "Roadmap" >}}
+  {{< roadmap_item "right" "Q2 2026" "Performance & meta" >}}
+    <ul>
+      <li>Performance improvements</li>
+      <li>Separate metadata chain</li>
+    </ul>
+  {{< /roadmap_item >}}
   {{< roadmap_item "left" "Q1 2026" "Performance & meta" >}}
     <ul>
       <li>Performance improvements</li>
       <li>Faster maintenance tools</li>
       <li>Initial placement policies</li>
-      <li>Separate metadata chain</li>
+      <li>Optimized S3 settings and multipart schemes</li>
     </ul>
   {{< /roadmap_item >}}
   {{< roadmap_item "right" "Q4 2025" "Mutable containers" >}}
