@@ -105,6 +105,21 @@ draft: false
 {{< /persons >}}
 
 {{< roadmap "Roadmap" >}}
+  {{< roadmap_item "right" "Q4 2026" "Object expiration" >}}
+    <ul>
+      <li>Time-based object expiration</li>
+      <li>CBF and search extensions</li>
+      <li>New block storage scheme for NeoGo</li>
+    </ul>
+  {{< /roadmap_item >}}
+  {{< roadmap_item "left" "Q3 2026" "Versioning & performance" >}}
+    <ul>
+      <li>Performance improvements</li>
+      <li>Network map and container versioning</li>
+      <li>HTTP-style object ranges</li>
+      <li>Public S3 gateway availability</li>
+    </ul>
+  {{< /roadmap_item >}}
   {{< roadmap_item "right" "Q2 2026" "Performance & meta" >}}
     <ul>
       <li>Performance improvements</li>
